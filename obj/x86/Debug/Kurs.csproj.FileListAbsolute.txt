@@ -1,0 +1,49 @@
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\obj\x86\Debug\Kurs.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\obj\x86\Debug\Kurs.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\obj\x86\Debug\Kurs.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\bin\Debug\Kurs.exe
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\bin\Debug\Kurs.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\obj\x86\Debug\Kurs.exe
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\obj\x86\Debug\Kurs.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\obj\x86\Debug\Kurs.AdminForm.resources
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\Kurs\bin\Debug\Database1.sdf
+C:\Users\User\documents\visual studio 2010\Projects\Kurs\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\User\documents\visual studio 2010\Projects\Kurs\Kurs\obj\x86\Debug\Kurs.exe
+C:\Users\User\documents\visual studio 2010\Projects\Kurs\Kurs\obj\x86\Debug\Kurs.pdb
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\Kurs.exe.config
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.exe
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.pdb
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\Kurs.exe
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\Kurs.pdb
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.csprojResolveAssemblyReference.cache
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.AdminForm.resources
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.Form1.resources
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.Properties.Resources.resources
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.csproj.GenerateResource.Cache
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\TrainStationDB.mdf
+D:\Г\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\TrainStationDB_log.ldf
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\Kurs.exe.config
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.exe
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.pdb
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\TrainStationDB.mdf
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\TrainStationDB_log.ldf
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\Kurs.exe
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\bin\Debug\Kurs.pdb
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.csprojResolveAssemblyReference.cache
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.AdminForm.resources
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.Form1.resources
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.Properties.Resources.resources
+H:\1\Курсач ОБД\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.csproj.GenerateResource.Cache
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\bin\Debug\Kurs.exe.config
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.exe
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.pdb
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\bin\Debug\TrainStationDB.mdf
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\bin\Debug\TrainStationDB_log.ldf
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\bin\Debug\Kurs.exe
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\bin\Debug\Kurs.pdb
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.csprojResolveAssemblyReference.cache
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.AdminForm.resources
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.Form1.resources
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.Properties.Resources.resources
+D:\Г\Курсач ОБД\Kurs 22.05.14 11;00 .NET v2.0\Kurs\Kurs\Kurs\obj\x86\Debug\Kurs.csproj.GenerateResource.Cache
